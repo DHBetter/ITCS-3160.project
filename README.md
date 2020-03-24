@@ -1,3 +1,5 @@
+Daniel Ledbetter Solo member
+
 Introduction
 
 Use Case
