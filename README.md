@@ -6,6 +6,8 @@ Introduction
 
 Use Case
 
+![Image of Use Case](https://github.com/DHBetter/ITCS-3160.project/issues/1#issue-595405720)
+
 Business Rules
 
 EERD
