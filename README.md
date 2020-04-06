@@ -2,6 +2,8 @@ Daniel Ledbetter Solo member
 
 Introduction
 
+  This project will be designed to implement a test database for a campus controlled food delivery serivce. It is to be used by University of North Carolina at Charlotte.  Students and faculity alike choose to get food delivered to them on campus. For convenience and availability purposes.  The pandemic has caused a rise in use of food delivery services.  Even after the pandemic this convenience can become a regular part of our activites.  This continued use will allow us to create a database to hold important information about eating habits and nutrion of campus members.
+
 Use Case
 
 Business Rules
