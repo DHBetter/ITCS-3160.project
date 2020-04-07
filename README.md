@@ -6,7 +6,7 @@ Introduction
 
 Use Case
 
-![Image of Use Case](https://github.com/DHBetter/ITCS-3160.project/issues/1#issue-595405720)
+![image](https://user-images.githubusercontent.com/47461329/78601880-7fb55480-7823-11ea-9adf-9c10a297b324.png)
 
 Business Rules
 
