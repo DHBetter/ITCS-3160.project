@@ -17,7 +17,8 @@ orders has one to one delivery staff
 
 EERD
 
-![Image of eerd](https://github.com/DHBetter/ITCS-3160.project/issues/2#issue-596208744)
+![image](https://user-images.githubusercontent.com/47461329/78728420-46551580-7905-11ea-963c-5849273754f4.png)
+
 
 MySQL Queries (three)
 
