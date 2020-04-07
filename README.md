@@ -10,6 +10,11 @@ Use Case
 
 Business Rules
 
+Students has one to many orders
+orders has one to one food providers
+orders has one to one dropp off points
+orders has one to one delivery staff
+
 EERD
 
 MySQL Queries (three)
