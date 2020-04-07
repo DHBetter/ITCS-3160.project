@@ -17,6 +17,8 @@ orders has one to one delivery staff
 
 EERD
 
+![Image of eerd](https://github.com/DHBetter/ITCS-3160.project/issues/2#issue-596208744)
+
 MySQL Queries (three)
 
 Trigger
